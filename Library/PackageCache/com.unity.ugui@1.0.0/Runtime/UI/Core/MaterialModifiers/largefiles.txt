@@ -1,0 +1,1 @@
+"C:\Program Files\Unity\Hub\Editor\2021.3.19f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.ugui\Runtime\UI\Core\MaterialModifiers\IMaterialModifier.cs.meta" 

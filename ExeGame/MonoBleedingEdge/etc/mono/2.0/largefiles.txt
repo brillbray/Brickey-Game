@@ -1,0 +1,1 @@
+"C:\Program Files\Unity\Hub\Editor\2021.3.19f1\Editor\Data\PlaybackEngines\windowsstandalonesupport\Variations\win64_player_nondevelopment_mono\MonoBleedingEdge\etc\mono\2.0\web.config" 
