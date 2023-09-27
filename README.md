@@ -1,7 +1,8 @@
-![image github](https://github.com/brillbray/GamesPortofolios/assets/127038837/101ed9c4-d30f-4bca-a340-14e7a3a38729)
+![image github](https://github.com/brillbray/GamesPortofolios/assets/127038837/967ebd66-3ed8-4c0f-ba7a-b8344447e0e2)
+
 
 <p align="center">
-<img src="https://github.com/brillbray/GamesPortofolios/assets/127038837/ecbc6dee-6f22-4399-9bf2-8496b6eb2eb5"  align="center" height="50"/>
+<img src="https://github.com/brillbray/GamesPortofolios/assets/127038837/5c3ee682-cd6d-45c5-9202-f2e872026fdc"  align="center" height="50"/>
 </p>
 
 <h1 align="center">Github Profile Readme</h1>
