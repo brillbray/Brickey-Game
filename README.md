@@ -15,5 +15,5 @@ Skills:  Unity / C# / C / PYTHON / HTML / CSS / JS /
 - 😄 Pronouns: He/him 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/brillbray)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' color:'white'>](https://www.linkedin.com/in/https://www.linkedin.com/in/brillian-bray-996736265//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'  color:'white'>](https://www.instagram.com/brillbray/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' color='white'>](https://github.com/brillbray)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' color='white'>](https://www.linkedin.com/in/https://www.linkedin.com/in/brillian-bray-996736265//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' color='white'>](https://www.instagram.com/brillbray/)  
 
