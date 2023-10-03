@@ -3,6 +3,7 @@
 ![Game Programmer | Game Designer ](https://github.com/brillbray/GamesPortofolios/assets/127038837/41f5bdaa-cf4b-4863-a020-2fd24358d5a3)
 
 My name is Brillian Braydent, usually called Brill. I am a class 21 / B25 student at Bina Nusantara University. 
+<br>
 The portfolio I have is :
 
 Brickey Game, the concept of the game is like air hockey game. Player A (left side) movement using "w" & "s" key and player B movement using "arrowUp" & "arrowDown" key.
