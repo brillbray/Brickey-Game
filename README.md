@@ -1,15 +1,19 @@
-![image github](https://github.com/brillbray/GamesPortofolios/assets/127038837/967ebd66-3ed8-4c0f-ba7a-b8344447e0e2)
+### Hi there 👋, my name is Brillian Braydent
+#### Game Programmer | Game Designer 
+![Game Programmer | Game Designer ](https://github.com/brillbray/GamesPortofolios/assets/127038837/967ebd66-3ed8-4c0f-ba7a-b8344447e0e2)
+
+My name is Brillian Braydent, usually called Brill. I am a class 21 / B25 student at Bina Nusantara University. 
+The portfolio I have is :
+
+Brickey Game, the concept of the game is like air hockey game. Player A (left side) movement using "w" & "s" key and player B movement using "arrowUp" & "arrowDown" key.
+
+Skills:  Unity / C# / C / PYTHON / HTML / CSS / JS / 
+
+- 🌱 I’m currently learning Game Design / Art 
+- 👯 I’m looking to collaborate on Game Programming 
+- 📫 How to reach me: Instagram / Whatsapp 
+- 😄 Pronouns: He/him 
 
 
-<p align="center">
-<img src="https://github.com/brillbray/GamesPortofolios/assets/127038837/5c3ee682-cd6d-45c5-9202-f2e872026fdc"  align="center" height="50"/>
-</p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/brillbray)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/brillian-bray-996736265//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/brillbray/)  
 
-<h1 align="center">Github Profile Readme</h1>
-
-<p align="center">
-
-Halo, nama saya Brillian Braydent, biasa dipanggiil Brill. Saya merupakan mahasiswa angkatan 21 / B25 di Bina Nusantara University. 
-Portofolio yang saya punya :
-Pong Games, pong games yang saya buat merupakan permainan sepak bola + ping pong. Konsep game yang saya pakai adalah player sebagai objek bet tenis meja dan goal yang harus digapai adalah bola menyentuh gawang. Target score adalah 5, dimana player harus menyentuh angka 5 untuk pertama kali. Game pong yang saya buat merupakan game berbasis 1v1.
-</p>
