@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Brillian Braydent
 #### Game Programmer | Game Designer 
-![Game Programmer | Game Designer ](https://github.com/brillbray/GamesPortofolios/assets/127038837/967ebd66-3ed8-4c0f-ba7a-b8344447e0e2)
+![Game Programmer | Game Designer ](https://github.com/brillbray/GamesPortofolios/assets/127038837/41f5bdaa-cf4b-4863-a020-2fd24358d5a3)
 
 My name is Brillian Braydent, usually called Brill. I am a class 21 / B25 student at Bina Nusantara University. 
 The portfolio I have is :
