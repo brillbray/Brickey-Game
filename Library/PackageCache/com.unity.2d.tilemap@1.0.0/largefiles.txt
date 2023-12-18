@@ -1,1 +1,0 @@
-"C:\Program Files\Unity\Hub\Editor\2021.3.19f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.2d.tilemap\Third Party Notices.md.meta" 
