@@ -1,6 +1,6 @@
 Hi there, I'm Brill
 
-![Game Programmer | Game Designer ](https://github.com/brillbray/GamesPortofolios/assets/127038837/ffcc0419-d973-4468-907c-1a4568abe999)
+![Game Programmer | 3D Artist ](https://github.com/brillbray/brillbray/assets/127038837/3fae6562-d220-4a88-806d-417840522684)
 
 In this repository, i  will show a fun game called "Brickey Game" 
 
