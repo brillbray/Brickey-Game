@@ -11,6 +11,6 @@ The concept of the game is like an air hockey game. Player A (left side) can mov
 
 This is the Brickey Game looks like:
 
-<img style="width: 400px" src="https://github.com/brillbray/Brickey-Game/assets/127038837/72ad6fb2-9c71-4903-9578-cb0fbfacedf6">
+<img style="width: 200px" src="https://github.com/brillbray/Brickey-Game/assets/127038837/72ad6fb2-9c71-4903-9578-cb0fbfacedf6">
 
 
